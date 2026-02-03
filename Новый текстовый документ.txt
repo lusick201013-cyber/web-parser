@@ -1,0 +1,10 @@
+https://github.com/lusick201013-cyber/web-parser.git
+
+
+git init
+git clone https://github.com/lusick201013-cyber/web-server-full.git
+git branch -M main
+git remote add origin1 https://github.com/lusick201013-cyber/web-parser.git
+git add .
+git commit -m "Первый коммит: создана структура проекта"
+git push -u origin1 main
